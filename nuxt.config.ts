@@ -21,7 +21,7 @@ export default defineNuxtConfig({
             "Vigelon Consulting helps businesses automate workflows, cut costs, and improve decision-making using AI.",
         },
       ],
-      link: [{ rel: "icon", type: "image/png", href: "/cedar-logo.png" }],
+      link: [{ rel: "icon", type: "image/png", href: "/tree-logo.png" }],
     },
   },
 });

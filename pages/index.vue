@@ -6,8 +6,7 @@
       <div class="container flex h-16 items-center justify-between px-4">
         <div class="flex items-center gap-6">
           <a aria-label="Homepage" class="flex items-center gap-2" href="/">
-            <img src="/cedar-logo.png" alt="Cedar Devs" class="h-8" />
-            <span class="text-xl font-bold text-foreground">Cedar Devs</span>
+            <img src="/cedar-logo-full.png" alt="Cedar Devs" class="h-14" />
           </a>
           <nav class="hidden md:flex items-center gap-6">
             <a
@@ -342,10 +341,12 @@
             </div>
 
             <!-- Pricing Comparison - Matching Reference Design -->
-            <div class="flex flex-col md:flex-row gap-6 md:gap-0 items-start">
+            <div
+              class="flex flex-col md:flex-row gap-6 md:gap-0 md:items-start items-center"
+            >
               <!-- Experience Labels (Left Side) -->
               <div
-                class="hidden md:flex flex-col justify-start pt-24 pr-8 w-56 shrink-0"
+                class="hidden md:flex flex-col justify-start pt-24 pr-8 md:w-64 w-96 shrink-0"
               >
                 <!-- 0-2 Years -->
                 <div class="h-24 flex flex-col justify-center">
@@ -377,7 +378,7 @@
               </div>
 
               <!-- Company Cards -->
-              <div class="flex flex-col md:flex-row gap-4 flex-1">
+              <div class="flex flex-col md:flex-row gap-4 flex-1 w-full">
                 <!-- Cedar Devs Card -->
                 <div
                   class="flex-1 rounded-2xl border-2 border-primary/30 bg-primary/5 overflow-hidden"
@@ -386,10 +387,11 @@
                   <div
                     class="p-6 flex items-center justify-center gap-2 border-b border-primary/20"
                   >
-                    <img src="/cedar-logo.png" alt="Cedar Devs" class="h-8" />
-                    <span class="font-semibold text-foreground"
-                      >Cedar Devs</span
-                    >
+                    <img
+                      src="/cedar-logo-full.png"
+                      alt="Cedar Devs"
+                      class="h-12"
+                    />
                   </div>
                   <!-- Prices -->
                   <div class="flex flex-col">
@@ -430,12 +432,12 @@
                 >
                   <!-- Logo Header -->
                   <div
-                    class="p-6 flex items-center justify-center border-b border-base-200 h-[76px]"
+                    class="p-6 flex items-center justify-center border-b border-base-200 h-[100px]"
                   >
                     <img
                       src="/upwork-logo.webp"
                       alt="Upwork"
-                      class="h-8 object-contain"
+                      class="h-12 object-contain"
                     />
                   </div>
                   <!-- Prices -->
@@ -489,12 +491,12 @@
                 >
                   <!-- Logo Header -->
                   <div
-                    class="p-6 flex items-center justify-center border-b border-base-200 h-[76px]"
+                    class="p-6 flex items-center justify-center border-b border-base-200 h-[100px]"
                   >
                     <img
                       src="/toptal-logo.webp"
                       alt="Toptal"
-                      class="h-8 object-contain"
+                      class="h-12 object-contain"
                     />
                   </div>
                   <!-- Prices -->
@@ -883,8 +885,7 @@
             <!-- Logo and Description -->
             <div class="md:col-span-2">
               <div class="flex items-center gap-3 mb-4">
-                <img src="/cedar-logo.png" alt="Cedar Devs" class="h-12" />
-                <span class="text-xl font-bold text-white">Cedar Devs</span>
+                <img src="/cedar-logo-full.png" alt="Cedar Devs" class="h-14" />
               </div>
               <p class="text-sm text-primary-200 leading-relaxed max-w-md">
                 Connecting you with exceptional software developers from
