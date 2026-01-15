@@ -137,17 +137,6 @@
                 starting at <span class="text-primary">$8/hr</span></span
               >
             </h1>
-            <div
-              class="flex items-center justify-center mx-auto max-w-2xl text-center"
-              style="opacity: 1; transform: none"
-            >
-              <h2
-                class="text-muted-foreground font-normal text-lg sm:text-xl md:text-2xl"
-              >
-                Try a Dev for
-                <span class="font-semibold text-primary">FREE</span> for 14 Days
-              </h2>
-            </div>
           </div>
           <div
             class="mx-auto mt-6 flex w-full max-w-2xl flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0"
