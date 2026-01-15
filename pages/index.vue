@@ -134,7 +134,7 @@
               ><span class="inline" style="opacity: 1; transform: none"
                 >Full Time Developers</span
               ><span class="inline" style="opacity: 1; transform: none">
-                starting at <span class="text-primary">$8/hr</span></span
+                starting at <span class="text-primary">$9/hr</span></span
               >
             </h1>
           </div>
